@@ -16,6 +16,7 @@ const noMessages = [
     "If you say no, intiki ochi tesko velta",
     "I will kick your ass",
     "Please??? 💔",
+    " I will get you pp whenever you ask and i will finish food with zero grains",
     "You love me kada cutiess? Im your love kadaaa",
     "Last chance!"
 ]
